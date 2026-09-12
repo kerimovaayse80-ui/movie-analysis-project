@@ -1,4 +1,4 @@
-# CodeAlpha Movie Analytics
+#  Movie Analysis Project
 
 An end-to-end data analytics pipeline built for the CodeAlpha Data Analytics
 internship, covering 3 tasks: Web Scraping, Exploratory Data Analysis, and
